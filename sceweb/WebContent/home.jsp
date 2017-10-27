@@ -84,7 +84,7 @@
 		
 			O sistema de controle de estágio permite o cadastro de empresas, 
 			cadastro do convenio empresa/faculdade e do estagio realizado pelo aluno.  
-			
+			Publicado em 27/10/2017
 			
 		</p>
 		
